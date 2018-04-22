@@ -15,7 +15,7 @@ For integration with keycloak will be in other repository.
 ## video tutorial conent
 
 1. [create spring boot app with intelliJ](https://www.youtube.com/watch?v=AL-KLbH_gnY&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=1)
-2. [spring boot project with JSP]https://www.youtube.com/watch?v=hvk4fUHFKNM&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=2()
+2. [spring boot project with JSP](https://www.youtube.com/watch?v=hvk4fUHFKNM&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=2)
 3. [spring boot app with spring data](https://www.youtube.com/watch?v=7YCemfkJRUc&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=3)
 4. [introduction to web-services (RESTFul API) in spring framework](https://www.youtube.com/watch?v=8AhHGLc0apQ&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=4)
 5. [RESTFul web-service with spring boot](https://www.youtube.com/watch?v=269oOMlcGz8&t=0s&list=PL2pQatD5yv8wl100Pgqzaav5qnDShAhGy&index=5)
